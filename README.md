@@ -1,2 +1,2 @@
-# mod-loader
-4D miner Mod loader [maintainer=@ShowierData9978]
+# mod-api
+4D miner Mod API [maintainer=@ShowierData9978]
