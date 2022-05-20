@@ -1,3 +1,9 @@
+#replit files
+
+.replit*
+*.nix
+.breakpoints*
+
 # Prerequisites
 *.d
 
@@ -30,3 +36,7 @@
 *.exe
 *.out
 *.app
+
+# compresed
+*.zip
+*.tar.gz
